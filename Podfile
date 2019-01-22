@@ -8,12 +8,5 @@ target 'FirebaseTest' do
   # Pods for FirebaseTest
   pod 'Firebase/Core'
   pod 'Firebase/Firestore'
-  pod 'Firebase/Auth'
-  pod 'Firebase/Storage'
-  pod 'SwiftLint'
-  pod 'Fabric', '~> 1.7.11'
-  pod 'Crashlytics', '~> 3.10.7'
   pod 'Firebase/DynamicLinks'
-  pod 'Firebase/Functions'
-
 end
